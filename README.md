@@ -26,7 +26,7 @@ The application uses a matching algorithm to assign groups to hostels:
 
 1. Clone the repository:
 ```
-git clone [<hostel_allocation>](https://github.com/responsive-we/hostel_allocation.git)
+git clone https://github.com/responsive-we/hostel_allocation.git
 cd hostel_allocation
 ```
 
